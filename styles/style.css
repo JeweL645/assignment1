@@ -109,3 +109,60 @@
     margin: 0 0 100px 590px;
     box-shadow: 10px 15px 8px 5px #353535;
 }
+
+/* Section 4 ends here and section 5 starts from here */
+
+.section5{
+    display: flex;
+}
+.sec4Div1{
+    padding: 0 0 0 110px;
+}
+.sec4Div2{
+    padding: 0 0 0 90px;
+}
+.sec4Div3{
+    padding: 0 0 0 120px;
+}
+
+
+.circle{
+    
+    border-radius:500px;
+    border: 15px solid red;
+    padding: 13px;
+}
+
+.Div1para{
+    color: red;
+    font-size: 19px;
+    margin-bottom: 5px;
+    
+}
+.Div1head{
+    color: black;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+}
+.Div1para2{
+    margin-top: 0px;
+    width: 260px;
+    font-size: 19px;
+    color: #757575;
+    text-align: left;
+}
+
+.Div3para1{
+    color: red;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.Div3para2{
+    color: #757575;
+    width: 200px;
+}
+/* Section 54 ends here and section 6 starts from here */
