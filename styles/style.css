@@ -1,0 +1,24 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+.section1{
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-left: 10px;
+}
+.bannerFirstHeading{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    padding: 200px 0px 0px 110px ;
+}
+.bannerSecondHeading{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 60px;
+    width: 500px;
+    padding:0px 0px 150px 460px ;
+}
+/* header part ends here and body part starts from here */
+
