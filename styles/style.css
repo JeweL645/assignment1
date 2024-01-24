@@ -45,3 +45,38 @@
     margin-left: 400px;
 }
 /* section 2 ends here and section 3 starts from here */
+.section3{
+    margin-top: 45px;
+    background-image:url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+.sec3FirstPara{
+    width: 600px;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    font-weight: 700;
+    padding: 100px 200px 0px 150px ;
+    margin-bottom: 0;
+
+}
+.sec3SecondPara{
+    color: white;
+    width: 400px;
+    font-size: 25px;
+    text-align: center;
+    padding: 0px 200px 0px 220px;
+}
+.sec3FirstBtn{
+    font-size: 20px;
+    color: white;
+    background-color:darkgray;
+    border: 0px;
+    border-radius: 10px;
+    padding: 20px 30px;
+    margin: 0 0 200px 350px;
+
+}
+/* section 3 ends here and section 4 starts from here */
