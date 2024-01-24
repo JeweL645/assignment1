@@ -50,6 +50,7 @@
     background-image:url('../images/Vectorrr.png');
     background-repeat: no-repeat;
     background-position: top;
+    margin-bottom: 0px;
 
 }
 .sec3FirstPara{
@@ -76,7 +77,35 @@
     border: 0px;
     border-radius: 10px;
     padding: 20px 30px;
-    margin: 0 0 200px 350px;
+    margin: 0 0 100px 350px;
 
 }
 /* section 3 ends here and section 4 starts from here */
+.section4{
+    margin: 50px auto;
+   
+}
+
+.sec4FirstPara, .sec4SecondPara, .sec4ThirdPara{
+    
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    
+
+}
+
+.redZone{
+    color: red;
+
+}
+.sec4FirstBtn{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    padding: 15px 25px;
+    border: 0px;
+    border-radius: 10px;
+    margin: 0 0 100px 590px;
+    box-shadow: 10px 15px 8px 5px #353535;
+}
