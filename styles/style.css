@@ -22,3 +22,26 @@
 }
 /* header part ends here and body part starts from here */
 
+.sec2FirstHeader{
+    text-align: center;
+    color: #f42712;
+    font-size: 60px;
+   
+}
+.sec2FirstPara{
+    text-align: center;
+    color: #f42712;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+.sec2SecondPara{
+    margin-top: 5px;
+    color: black;
+    font-size: 35px;
+    text-align: center;
+}
+#firstImg{
+    width: 550px;
+    margin-left: 400px;
+}
+/* section 2 ends here and section 3 starts from here */
