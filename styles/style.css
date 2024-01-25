@@ -114,6 +114,7 @@
 
 .section5{
     display: flex;
+    margin-bottom: 90px;
 }
 .sec4Div1{
     padding: 0 0 0 110px;
@@ -166,3 +167,56 @@
     width: 200px;
 }
 /* Section 54 ends here and section 6 starts from here */
+
+.sec6FirstHeading{
+    text-align: center;
+    font-size: 15px;
+
+}
+.sec6SecondHeading{
+    font-size: 35px;
+    text-align: center;
+}
+#redPart{
+    color: red;
+}
+.sec6Description{
+    text-align: center;
+    width: 450px;
+    padding: 0 0 0 455px;
+}
+.pair1{
+    position: relative ;
+}
+.p1{
+     position: relative ; 
+     margin-top: 400px;
+}
+.p2{
+     position: absolute ;
+   
+    width: 650px;
+    height: 600px ;
+    margin-top: 0px;
+    right: 650px;
+
+    
+}
+.pair2{
+    position:absolute;
+    
+}
+.p3{
+    position: relative;
+    left: 900px;
+    /* height: 400px;
+  left: 927px; */
+    
+}
+.p4{
+    position: absolute;
+    left: 720px;
+    margin-top: 30px;
+
+}
+/* section 6 ends here and section 7 starts from here */
