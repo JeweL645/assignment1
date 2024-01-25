@@ -177,7 +177,7 @@
     font-size: 35px;
     text-align: center;
 }
-#redPart{
+.redPart{
     color: red;
 }
 .sec6Description{
@@ -220,3 +220,14 @@
 
 }
 /* section 6 ends here and section 7 starts from here */
+.section7{
+    margin-top: 50px;
+    padding: 10px 25px;
+}
+.sec7FirstPara{
+    color: #757575;
+    font-size: 16px;
+    width: 700px;
+}
+
+/* section 7ends here and section 8 starts from here */
