@@ -231,3 +231,40 @@
 }
 
 /* section 7ends here and section 8 starts from here */
+.section8{
+    margin-top: 90px;
+    background-color: bisque;
+    padding: 50px;
+    margin-bottom: 90px;
+}
+.EmailIcon{
+    margin-left:550px;
+}
+.sec8Head1{
+    text-align: center;
+    font-size: 34px;
+}
+.sec9FirstPara{
+    color: #757575;
+    width: 500px;
+    margin-left: 365px;
+    
+}
+.emailField{
+    margin-left: 390px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: white;
+    border: 20px solid #ffffff;
+    border-radius: 40px 0px 0px 40px;
+
+}
+.subsBtn{
+    padding: 10px;
+    font-size: 18px;
+    background-color: red;
+    color: white;
+    border: 20px solid red;
+    border-radius: 0px 40px 40px 0px;
+}
+/* section 8 done and footer starts from here */
